@@ -1,11 +1,11 @@
 {
-  "title": "microsite",
-  "description": "Opinionated micro front-end that can be used to start a one-page site.",
+  "title": "Connie Hodde, LMT",
+  "description": "Therapeutic Massage for Women.",
   "favicon": "/assets/icon.png",
   "share": "/assets/share-image.jpg",
-  "url": "https://voight-microsite.netlify.app",
-  "author": "Danny de Vries",
-  "mail": "hi@dandevri.es",
+  "url": "https://conniehodde.com",
+  "author": "Connie Hodde",
+  "mail": "conniehoddelmt@gmail.com",
   "lang": "en",
-  "social": "@dandevri"
+  "social": "@conniehoddelmt"
 }
