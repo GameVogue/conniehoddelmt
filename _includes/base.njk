@@ -28,6 +28,7 @@
     <link rel="me" href="mailto:{{ metadata.mail }}">
     {% set css %}
       {% include "style.css" %}
+      {% include "pico.css" %}
     {% endset %}
     <style>
       {{ css | cssmin | safe }}
